@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pewpew.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="2470" height="1411" frameX="-368" frameY="0" frameWidth="2838" frameHeight="1582"/>
+	<SubTexture name="idle0001" x="0" y="1411" width="2773" height="1558" frameX="0" frameY="-24" frameWidth="2838" frameHeight="1582"/>
+	<SubTexture name="idle0002" x="0" y="2969" width="2330" height="1119" frameX="-333" frameY="-27" frameWidth="2838" frameHeight="1582"/>
+</TextureAtlas>

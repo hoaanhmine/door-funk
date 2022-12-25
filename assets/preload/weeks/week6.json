@@ -1,22 +1,50 @@
 {
 	"songs": [
-		["Senpai", "senpai-pixel", [255, 120, 191]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
-		["Thorns", "spirit-pixel", [255, 120, 191]]
+		[
+			"Tranquil",
+			"figure",
+			[
+				230,
+				95,
+				70
+			]
+		],
+		[
+			"Ascertain",
+			"figure",
+			[
+				190,
+				75,
+				70
+			]
+		],
+		[
+			"Circumvent",
+			"figure",
+			[
+				210,
+				0,
+				10
+			]
+		]
 	],
-
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "figure",
+	"difficulties": "Normal",
 	"weekCharacters": [
-		"senpai",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "school",
-
-	"storyName": "hating simulator ft. moawling",
-	"weekBefore": "week5",
-	"weekName": "Week 6",
-	"startUnlocked": true,
-
+	"storyName": "The Library and The Elevator.",
+	"weekName": "WeekFIGURE",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

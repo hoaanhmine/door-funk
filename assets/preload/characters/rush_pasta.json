@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				205,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				140,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				104,
+				247
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				112,
+				253
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				146,
+				200
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/babyrush",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "rush_pasta",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		92,
+		119
+	],
+	"camera_position": [
+		-320,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

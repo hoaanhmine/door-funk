@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Glitch Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Glitch Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Glitch Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Glitch Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Glitch Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Glitch",
+	"position": [
+		-220,
+		-60
+	],
+	"healthicon": "glitch",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		0,
+		255
+	],
+	"camera_position": [
+		-180,
+		-240
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

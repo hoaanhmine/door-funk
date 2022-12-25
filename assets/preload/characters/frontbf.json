@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-75,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "IdleBF"
+		},
+		{
+			"offsets": [
+				-48,
+				111
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LeftBF"
+		},
+		{
+			"offsets": [
+				-70,
+				119
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DownBF"
+		},
+		{
+			"offsets": [
+				-116,
+				137
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "UpBF"
+		},
+		{
+			"offsets": [
+				-158,
+				123
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RightBF"
+		},
+		{
+			"offsets": [
+				-93,
+				125
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "HeyBF"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FrontFacingBF",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "frontbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		176,
+		209
+	],
+	"camera_position": [
+		-60,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

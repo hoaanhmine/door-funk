@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PizzaDelivery.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pizza delivery instance 10000" x="0" y="0" width="2060" height="725"/>
+	<SubTexture name="pizza delivery instance 10001" x="0" y="725" width="2060" height="725"/>
+	<SubTexture name="pizza delivery instance 10002" x="0" y="1450" width="2060" height="725"/>
+	<SubTexture name="pizza delivery instance 10003" x="0" y="2175" width="2060" height="725"/>
+	<SubTexture name="pizza delivery instance 10004" x="0" y="2900" width="2060" height="725"/>
+	<SubTexture name="pizza delivery instance 10005" x="0" y="3625" width="2060" height="725"/>
+	<SubTexture name="pizza delivery instance 10006" x="0" y="4350" width="2060" height="725"/>
+	<SubTexture name="pizza delivery instance 10007" x="0" y="5075" width="2060" height="725"/>
+	<SubTexture name="pizza delivery instance 10008" x="0" y="5800" width="2060" height="725"/>
+	<SubTexture name="pizza delivery instance 10009" x="0" y="6525" width="2060" height="725"/>
+</TextureAtlas>

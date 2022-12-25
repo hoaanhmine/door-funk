@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Baller.png">
+<SubTexture name="Baller Down0000" x="0" y="0" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Down0001" x="875" y="0" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Down0002" x="0" y="810" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Down0003" x="875" y="810" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Down0004" x="1750" y="0" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Idle0000" x="1750" y="810" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Idle0001" x="0" y="1620" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Idle0002" x="875" y="1620" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Idle0003" x="1750" y="1620" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Idle0004" x="2625" y="0" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Idle0005" x="2625" y="810" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Idle0006" x="2625" y="1620" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Left0000" x="0" y="2430" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Left0001" x="875" y="2430" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Left0002" x="1750" y="2430" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Left0003" x="2625" y="2430" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Right0000" x="3500" y="0" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Right0001" x="3500" y="810" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Right0002" x="3500" y="1620" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Right0003" x="3500" y="2430" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Up0000" x="0" y="3240" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Up0001" x="875" y="3240" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Up0002" x="1750" y="3240" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Throw0000" x="2625" y="3240" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Throw0001" x="3500" y="3240" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Throw0002" x="4375" y="0" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Throw0003" x="4375" y="810" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+<SubTexture name="Baller Throw0004" x="4375" y="1620" width="875" height="810" frameX="0" frameY="0" frameWidth="875" frameHeight="810" />
+</TextureAtlas>

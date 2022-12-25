@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animatedwall.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="2444" height="1321"/>
+	<SubTexture name="idle0001" x="0" y="0" width="2444" height="1321"/>
+	<SubTexture name="idle0002" x="0" y="1321" width="2444" height="1321"/>
+	<SubTexture name="idle0003" x="0" y="1321" width="2444" height="1321"/>
+	<SubTexture name="idle0004" x="0" y="2642" width="2444" height="1321"/>
+	<SubTexture name="idle0005" x="0" y="2642" width="2444" height="1321"/>
+	<SubTexture name="idle0006" x="0" y="2642" width="2444" height="1321"/>
+	<SubTexture name="idle0007" x="0" y="0" width="2444" height="1321"/>
+	<SubTexture name="idle0008" x="0" y="0" width="2444" height="1321"/>
+</TextureAtlas>

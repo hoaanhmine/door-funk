@@ -1,22 +1,41 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "PSST-PSST-PSST! theres a screech.",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "screech",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Caterwual",
+			"screech",
+			[
+				66,
+				73,
+				75
+			]
+		],
+		[
+			"Petrified",
+			"screech",
+			[
+				66,
+				73,
+				75
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "WeekPSST",
+	"hiddenUntilUnlocked": false
 }

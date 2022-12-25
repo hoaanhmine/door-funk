@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				265,
+				294
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				200,
+				249
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				134,
+				357
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				152,
+				283
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				187,
+				260
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GuidingLight",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "guider",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		178,
+		255
+	],
+	"camera_position": [
+		-160,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

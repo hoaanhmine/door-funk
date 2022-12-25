@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="seekstage2.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="6557" height="2421" frameX="0" frameY="-2" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0001" x="0" y="0" width="6557" height="2421" frameX="-143" frameY="-2" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0002" x="0" y="0" width="6557" height="2421" frameX="-285" frameY="-2" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0003" x="0" y="0" width="6557" height="2421" frameX="-427" frameY="-2" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0004" x="0" y="0" width="6557" height="2421" frameX="-570" frameY="-2" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0005" x="0" y="0" width="6557" height="2421" frameX="-712" frameY="-2" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0006" x="0" y="0" width="6557" height="2421" frameX="-854" frameY="-1" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0007" x="0" y="0" width="6557" height="2421" frameX="-996" frameY="-1" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0008" x="0" y="0" width="6557" height="2421" frameX="-1139" frameY="-1" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0009" x="0" y="0" width="6557" height="2421" frameX="-1281" frameY="-1" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0010" x="0" y="2421" width="6557" height="2420" frameX="-1423" frameY="-1" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0011" x="0" y="2421" width="6557" height="2420" frameX="-1566" frameY="-1" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0012" x="0" y="2421" width="6557" height="2420" frameX="-1708" frameY="0" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0013" x="0" y="2421" width="6557" height="2420" frameX="-1850" frameY="0" frameWidth="8549" frameHeight="2423"/>
+	<SubTexture name="idle0014" x="0" y="0" width="6557" height="2421" frameX="-1993" frameY="0" frameWidth="8549" frameHeight="2423"/>
+</TextureAtlas>

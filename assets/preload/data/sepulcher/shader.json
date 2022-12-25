@@ -1,0 +1,6 @@
+function onCreatePost()
+    addTVEffect('camgame')
+    addTVEffect('camhud', false)
+	addBloomEffect ('camhud', 0.004)
+	addBloomEffect ('camgame', 0.004)
+end

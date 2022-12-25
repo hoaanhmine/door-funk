@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="seekvignette.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vignette instance 10000" x="0" y="0" width="991" height="574"/>
+	<SubTexture name="vignette instance 10001" x="991" y="0" width="991" height="574"/>
+	<SubTexture name="vignette instance 10002" x="1982" y="0" width="991" height="574"/>
+	<SubTexture name="vignette instance 10003" x="2973" y="0" width="991" height="574"/>
+	<SubTexture name="vignette instance 10004" x="0" y="574" width="991" height="574"/>
+	<SubTexture name="vignette instance 10005" x="991" y="574" width="991" height="574"/>
+	<SubTexture name="vignette instance 10006" x="1982" y="574" width="991" height="574"/>
+	<SubTexture name="vignette instance 10007" x="2973" y="574" width="991" height="574"/>
+	<SubTexture name="vignette instance 10008" x="0" y="1148" width="991" height="574"/>
+	<SubTexture name="vignette instance 10009" x="991" y="1148" width="991" height="574"/>
+	<SubTexture name="vignette instance 10010" x="1982" y="1148" width="991" height="574"/>
+	<SubTexture name="vignette instance 10011" x="2973" y="1148" width="991" height="574"/>
+	<SubTexture name="vignette instance 10012" x="0" y="1722" width="991" height="574"/>
+	<SubTexture name="vignette instance 10013" x="991" y="1722" width="991" height="574"/>
+	<SubTexture name="vignette instance 10014" x="1982" y="1722" width="991" height="574"/>
+	<SubTexture name="vignette instance 10015" x="2973" y="1722" width="991" height="574"/>
+	<SubTexture name="vignette instance 10016" x="0" y="2296" width="991" height="574"/>
+	<SubTexture name="vignette instance 10017" x="991" y="2296" width="991" height="574"/>
+	<SubTexture name="vignette instance 10018" x="1982" y="2296" width="991" height="574"/>
+	<SubTexture name="vignette instance 10019" x="2973" y="2296" width="991" height="574"/>
+	<SubTexture name="vignette instance 10020" x="0" y="2870" width="991" height="574"/>
+	<SubTexture name="vignette instance 10021" x="991" y="2870" width="991" height="574"/>
+	<SubTexture name="vignette instance 10022" x="1982" y="2870" width="991" height="574"/>
+	<SubTexture name="vignette instance 10023" x="2973" y="2870" width="991" height="574"/>
+	<SubTexture name="vignette instance 10024" x="0" y="3444" width="991" height="574"/>
+	<SubTexture name="vignette instance 10025" x="991" y="3444" width="991" height="574"/>
+	<SubTexture name="vignette instance 10026" x="1982" y="3444" width="991" height="574"/>
+	<SubTexture name="vignette instance 10027" x="2973" y="3444" width="991" height="574"/>
+	<SubTexture name="vignette instance 10028" x="0" y="4018" width="991" height="574"/>
+	<SubTexture name="vignette instance 10029" x="991" y="4018" width="991" height="574"/>
+	<SubTexture name="vignette instance 10030" x="1982" y="4018" width="991" height="574"/>
+	<SubTexture name="vignette instance 10031" x="2973" y="4018" width="991" height="574"/>
+	<SubTexture name="vignette instance 10032" x="0" y="4592" width="991" height="574"/>
+	<SubTexture name="vignette instance 10033" x="991" y="4592" width="991" height="574"/>
+	<SubTexture name="vignette instance 10034" x="1982" y="4592" width="991" height="574"/>
+	<SubTexture name="vignette instance 10035" x="2973" y="4592" width="991" height="574"/>
+	<SubTexture name="vignette instance 10036" x="0" y="5166" width="991" height="574"/>
+	<SubTexture name="vignette instance 10037" x="991" y="5166" width="991" height="574"/>
+	<SubTexture name="vignette instance 10038" x="1982" y="5166" width="991" height="574"/>
+	<SubTexture name="vignette instance 10039" x="2973" y="5166" width="991" height="574"/>
+	<SubTexture name="vignette instance 10040" x="0" y="5740" width="991" height="574"/>
+	<SubTexture name="vignette instance 10041" x="991" y="5740" width="991" height="574"/>
+	<SubTexture name="vignette instance 10042" x="1982" y="5740" width="991" height="574"/>
+	<SubTexture name="vignette instance 10043" x="2973" y="5740" width="991" height="574"/>
+	<SubTexture name="vignette instance 10044" x="0" y="6314" width="991" height="574"/>
+	<SubTexture name="vignette instance 10045" x="991" y="6314" width="991" height="574"/>
+	<SubTexture name="vignette instance 10046" x="1982" y="6314" width="991" height="574"/>
+	<SubTexture name="vignette instance 10047" x="2973" y="6314" width="991" height="574"/>
+	<SubTexture name="vignette instance 10048" x="0" y="6888" width="991" height="574"/>
+	<SubTexture name="vignette instance 10049" x="991" y="6888" width="991" height="574"/>
+</TextureAtlas>

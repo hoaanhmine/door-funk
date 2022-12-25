@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfdeathlmao.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="oof0000" x="0" y="0" width="644" height="729" frameX="-115" frameY="0" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0001" x="0" y="0" width="644" height="729" frameX="-115" frameY="0" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0002" x="644" y="0" width="771" height="766" frameX="-141" frameY="-169" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0003" x="644" y="0" width="771" height="766" frameX="-141" frameY="-169" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0004" x="1415" y="0" width="1339" height="471" frameX="-25" frameY="-655" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0005" x="1415" y="0" width="1339" height="471" frameX="-25" frameY="-655" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0006" x="2754" y="0" width="1373" height="471" frameX="-3" frameY="-659" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0007" x="2754" y="0" width="1373" height="471" frameX="-3" frameY="-659" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0008" x="4127" y="0" width="1383" height="467" frameX="-1" frameY="-660" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0009" x="4127" y="0" width="1383" height="467" frameX="-1" frameY="-660" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0010" x="5510" y="0" width="1385" height="465" frameX="0" frameY="-661" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0011" x="5510" y="0" width="1385" height="465" frameX="0" frameY="-661" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0012" x="5510" y="0" width="1385" height="465" frameX="0" frameY="-661" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0013" x="5510" y="0" width="1385" height="465" frameX="0" frameY="-238" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0014" x="0" y="766" width="1385" height="923" frameX="0" frameY="-203" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0015" x="1385" y="766" width="1385" height="944" frameX="0" frameY="-182" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0016" x="2770" y="766" width="1385" height="963" frameX="0" frameY="-163" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0017" x="4155" y="766" width="1385" height="977" frameX="0" frameY="-149" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0018" x="5540" y="766" width="1385" height="985" frameX="0" frameY="-141" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0019" x="0" y="1751" width="1385" height="990" frameX="0" frameY="-136" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0020" x="1385" y="1751" width="1385" height="993" frameX="0" frameY="-133" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0021" x="2770" y="1751" width="1385" height="995" frameX="0" frameY="-131" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0022" x="4155" y="1751" width="1385" height="996" frameX="0" frameY="-130" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0023" x="5540" y="1751" width="1385" height="996" frameX="0" frameY="-130" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0024" x="0" y="2747" width="1385" height="997" frameX="0" frameY="-129" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0025" x="0" y="2747" width="1385" height="997" frameX="0" frameY="-129" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0026" x="0" y="2747" width="1385" height="997" frameX="0" frameY="-129" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0027" x="0" y="2747" width="1385" height="997" frameX="0" frameY="-129" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0028" x="0" y="2747" width="1385" height="997" frameX="0" frameY="-129" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0029" x="0" y="2747" width="1385" height="997" frameX="0" frameY="-129" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0030" x="0" y="2747" width="1385" height="997" frameX="0" frameY="-129" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0031" x="0" y="2747" width="1385" height="997" frameX="0" frameY="-129" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0032" x="0" y="2747" width="1385" height="997" frameX="0" frameY="-129" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0033" x="0" y="2747" width="1385" height="997" frameX="0" frameY="-129" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof0034" x="0" y="2747" width="1385" height="997" frameX="0" frameY="-129" frameWidth="1385" frameHeight="1130"/>
+	<SubTexture name="oof confirm0000" x="1385" y="2747" width="1385" height="986" frameX="0" frameY="-88" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0001" x="2770" y="2747" width="1346" height="1028" frameX="-11" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0002" x="4116" y="2747" width="1307" height="1042" frameX="-22" frameY="0" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0003" x="5423" y="2747" width="1269" height="995" frameX="-32" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0004" x="6692" y="2747" width="1230" height="979" frameX="-43" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0005" x="0" y="3789" width="1192" height="963" frameX="-53" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0006" x="1192" y="3789" width="1153" height="947" frameX="-64" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0007" x="2345" y="3789" width="1114" height="931" frameX="-75" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0008" x="3459" y="3789" width="1076" height="914" frameX="-85" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0009" x="4535" y="3789" width="1037" height="898" frameX="-96" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0010" x="5572" y="3789" width="999" height="882" frameX="-106" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0011" x="6571" y="3789" width="959" height="866" frameX="-117" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0012" x="0" y="4752" width="926" height="849" frameX="-122" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0013" x="926" y="4752" width="900" height="833" frameX="-120" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0014" x="1826" y="4752" width="875" height="817" frameX="-117" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0015" x="2701" y="4752" width="849" height="801" frameX="-115" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0016" x="3550" y="4752" width="824" height="785" frameX="-112" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0017" x="4374" y="4752" width="797" height="769" frameX="-111" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0018" x="5171" y="4752" width="771" height="752" frameX="-109" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0019" x="5942" y="4752" width="769" height="737" frameX="-107" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0020" x="6711" y="4752" width="771" height="722" frameX="-106" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0021" x="0" y="5601" width="773" height="706" frameX="-105" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0022" x="773" y="5601" width="775" height="691" frameX="-104" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0023" x="1548" y="5601" width="775" height="676" frameX="-104" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0024" x="2323" y="5601" width="777" height="661" frameX="-103" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0025" x="3100" y="5601" width="777" height="661" frameX="-103" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0026" x="3100" y="5601" width="777" height="661" frameX="-103" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0027" x="3100" y="5601" width="777" height="661" frameX="-103" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0028" x="3100" y="5601" width="777" height="661" frameX="-103" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0029" x="3100" y="5601" width="777" height="661" frameX="-103" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0030" x="3100" y="5601" width="777" height="661" frameX="-103" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0031" x="3100" y="5601" width="777" height="661" frameX="-103" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0032" x="3100" y="5601" width="777" height="661" frameX="-103" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0033" x="3100" y="5601" width="777" height="661" frameX="-103" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof confirm0034" x="3100" y="5601" width="777" height="661" frameX="-103" frameY="-30" frameWidth="1385" frameHeight="1074"/>
+	<SubTexture name="oof loop0000" x="3877" y="5601" width="1385" height="996" frameX="0" frameY="-40" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0001" x="5262" y="5601" width="1385" height="1033" frameX="0" frameY="-3" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0002" x="6647" y="5601" width="1385" height="1036"/>
+	<SubTexture name="oof loop0003" x="0" y="6637" width="1385" height="1025" frameX="0" frameY="-11" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0004" x="1385" y="6637" width="1385" height="1018" frameX="0" frameY="-18" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0005" x="2770" y="6637" width="1385" height="1007" frameX="0" frameY="-29" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0006" x="4155" y="6637" width="1385" height="1006" frameX="0" frameY="-30" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0007" x="5540" y="6637" width="1385" height="1001" frameX="0" frameY="-35" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0008" x="5540" y="6637" width="1385" height="1001" frameX="0" frameY="-35" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0009" x="5540" y="6637" width="1385" height="1001" frameX="0" frameY="-35" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0010" x="5540" y="6637" width="1385" height="1001" frameX="0" frameY="-35" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0011" x="5540" y="6637" width="1385" height="1001" frameX="0" frameY="-35" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0012" x="5540" y="6637" width="1385" height="1001" frameX="0" frameY="-35" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0013" x="5540" y="6637" width="1385" height="1001" frameX="0" frameY="-35" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0014" x="5540" y="6637" width="1385" height="1001" frameX="0" frameY="-35" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0015" x="5540" y="6637" width="1385" height="1001" frameX="0" frameY="-35" frameWidth="1385" frameHeight="1036"/>
+	<SubTexture name="oof loop0016" x="5540" y="6637" width="1385" height="1001" frameX="0" frameY="-35" frameWidth="1385" frameHeight="1036"/>
+</TextureAtlas>

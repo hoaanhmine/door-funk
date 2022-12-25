@@ -1,0 +1,95 @@
+{
+	"storyName": "freeplays lmfao",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"--- FREEPLAY SONGS ---",
+			"rick",
+			[
+				75,
+				153,
+				195
+			]
+		],
+		[
+			"Imothy Moment",
+			"imothy",
+			[
+				75,
+				133,
+				175
+			]
+		],
+		[
+			"Pizza Overnight",
+			"rush_pasta",
+			[
+				75,
+				110,
+				120
+			]
+		],
+		[
+			"Adrenaline Rush",
+			"starve",
+			[
+				120,
+				120,
+				220
+			]
+		],
+		[
+			"Ballin",
+			"baller",
+			[
+				255,
+				53,
+				73
+			]
+		],
+		[
+			"Basketball Fight",
+			"baller",
+			[
+				255,
+				73,
+				160
+			]
+		],
+		[
+			"Jack' o Scare",
+			"jack",
+			[
+				220,
+				240,
+				255
+			]
+		],
+		[
+			"Turbulence",
+			"window",
+			[
+				180,
+				200,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "weekfreeplays"
+}

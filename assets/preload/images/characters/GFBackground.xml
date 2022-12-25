@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFBackground.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IdleGF instance 10000" x="0" y="0" width="312" height="468" frameX="-1" frameY="-1" frameWidth="313" frameHeight="469"/>
+	<SubTexture name="IdleGF instance 10001" x="0" y="0" width="312" height="468" frameX="-1" frameY="-1" frameWidth="313" frameHeight="469"/>
+	<SubTexture name="IdleGF instance 10002" x="312" y="0" width="309" height="465" frameX="-2" frameY="-4" frameWidth="313" frameHeight="469"/>
+	<SubTexture name="IdleGF instance 10003" x="312" y="0" width="309" height="465" frameX="-2" frameY="-4" frameWidth="313" frameHeight="469"/>
+	<SubTexture name="IdleGF instance 10004" x="621" y="0" width="305" height="453" frameX="-5" frameY="-16" frameWidth="313" frameHeight="469"/>
+	<SubTexture name="IdleGF instance 10005" x="621" y="0" width="305" height="453" frameX="-5" frameY="-16" frameWidth="313" frameHeight="469"/>
+	<SubTexture name="IdleGF instance 10006" x="0" y="468" width="313" height="469"/>
+	<SubTexture name="IdleGF instance 10007" x="0" y="468" width="313" height="469"/>
+	<SubTexture name="IdleGF instance 10008" x="0" y="0" width="312" height="468" frameX="-1" frameY="-1" frameWidth="313" frameHeight="469"/>
+	<SubTexture name="IdleGF instance 10009" x="0" y="0" width="312" height="468" frameX="-1" frameY="-1" frameWidth="313" frameHeight="469"/>
+	<SubTexture name="IdleGF instance 10010" x="313" y="468" width="312" height="468" frameX="-1" frameY="-1" frameWidth="313" frameHeight="469"/>
+	<SubTexture name="IdleGF instance 10011" x="313" y="468" width="312" height="468" frameX="-1" frameY="-1" frameWidth="313" frameHeight="469"/>
+</TextureAtlas>

@@ -1,0 +1,3 @@
+Press space to make bf turn on his flashlight to dodge screech (will decrease its battery)
+value1 is the time you have to press spacebar
+leave value2 blank

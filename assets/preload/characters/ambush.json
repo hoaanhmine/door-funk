@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				185,
+				184
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				239
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				337
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				173
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2361,
+				210
+			],
+			"anim": "LAUGH",
+			"fps": 24,
+			"name": "Laugh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2361,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ambush",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "ambush",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		216,
+		176
+	],
+	"camera_position": [
+		-100,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

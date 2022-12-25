@@ -1,22 +1,50 @@
 {
-	"songs": [
-		["Cocoa", "parents", [160, 209, 255]],
-		["Eggnog", "parents", [160, 209, 255]],
-		["Winter Horrorland", "monster", [160, 209, 255]]
+	"storyName": "HALLWAY EYES",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "seek",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"parents-christmas",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "christmas",
-
-	"storyName": "RED SNOW",
-	"weekBefore": "week4",
-	"weekName": "Week 5",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Hide and Run",
+			"seek",
+			[
+				46,
+				33,
+				55
+			]
+		],
+		[
+			"Vigilance",
+			"seek",
+			[
+				86,
+				73,
+				95
+			]
+		],
+		[
+			"Clear Off",
+			"seek",
+			[
+				126,
+				113,
+				135
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "WeekSEEK",
+	"hiddenUntilUnlocked": false
 }

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				505,
+				464
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				480,
+				449
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				604,
+				547
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				412,
+				523
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				467,
+				470
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RushSPRITES",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "rush",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		92,
+		119
+	],
+	"camera_position": [
+		-420,
+		-500
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				425,
+				394
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				160,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				134,
+				427
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				2,
+				274
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				202
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/imothyHYPER",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "imothz",
+	"flip_x": false,
+	"healthbar_colors": [
+		39,
+		23,
+		40
+	],
+	"camera_position": [
+		-150,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

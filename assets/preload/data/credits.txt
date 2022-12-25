@@ -1,0 +1,44 @@
+DEVELOPERS
+FridayDayFunkin::coolsunnyboi::Made the Whole Build, did most of the art, charting and music.::no::0xFFE1723A
+Davon::davon::He made like 6-7 songs for the mod, HE'S the biggest help.::no::0xFFB2406F
+Enzoo::enzo::Made Crypt (Erect too) and Ballin', and did some LUA coding.::no::0xFF7D40B2
+
+MUSICIANS
+Gavin360::gavin::Composed tons of songs, which got remastered later on.::no::0xFFF3585E
+UnkownInky::ink::Composed the 4 minute song, Circumvent.::no::0xFFFEBC41
+JerProductions::jer::Made Dysepsia and showed me how to do music.::no::0xFFff96e8
+Kozin::kozin::Composed Tranquil and Caterwual.::no::0xFF565656
+lured::lured::Composed Revolve and Jack o' Scare.::no::0xFFF7F7F7
+Riggedy Raggedy::smiley::Composed Penumbra and Aperture.::no::0xFFFFB200
+Sunight::sunnight::Composed a Pre-Alpha Song (Static Speed), which got later evolved.::no::0xFFCC00FF
+
+ARTISTS
+HyperCommander::hyper::Made Figure Boyfriend Sprites.::no::0xFFBACCD4
+ToastBee::beetoast::Made the thumbnail and the Figure Promo Art.::no::0xFFC1A3FF
+CalvertVy::calvertVy::Made Glitch and Seek Sprites, will be used for V2.::no::0xFFB66EFF
+PranksterBlocky::prankster::Made Front Face Seek, Jack and Depth Sprites.::no::0xFF6E0FA0
+FestiveFanta::fanta::Helped with pause arts and source code.::no::0xFF0390fc
+ziffee::kitty::Will do Jack Sprites for V2.::no::0xFFCCCCCC
+Doug::doug::Made Unused BF Screech Sprites (will use them for something in V2).::no::0xFF4C18B1
+SammygoPARTY::sammy::Came up with the Starved Screech idea and lore.::no::0xFF5ABD4B
+EduardoPqSim (Dudu)::eduardo::Made Seek Sprites.::no::0xFF977D13
+DevCheese::cheese::Made Screech Sprites.::no::0xFF5E7ADF
+TheKevinm::kevin::Made Greed Sprites.::no::0xFF284CFF
+
+CONCEPT ARTISTS
+Error::error::Made a Mechanic on Eyes, really advanced.::no::0xFFFF5465
+Bol::bol::Concepts on a Seek Cutscene.::no::0xFFD3D3D3
+
+CHARTERS
+Freddy::freddy::Tried charting a few songs, but fixed later::no::0xFFC67700
+ERRon::ERRon::Charted Normal Circumvent.::no::0xFF7B787B
+Versed::versed::Came up with a mechanic idea.::no::0xFF58405D
+
+CUTSCENE ANIMATORS
+Accept Gub (Gub)::gub::Made Rush's Cutscene.::no::0xFFACABB7
+
+OTHER WORKERS
+KingBoo1264::kingboo::Made Shadow's Icons.::no::0xFF3C0860
+Whats an Up!?::whatsan::Inserted me in he's horror game, YAEY!::no::0xFFAA0019
+Hikarunn (Melodii)::melodii::They are not Melodii from Scratchin' Melodii, this is the wrong rhythm game bitch.::no::0xFFFFFFFF
+

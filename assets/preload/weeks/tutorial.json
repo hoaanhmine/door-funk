@@ -1,20 +1,41 @@
 {
-	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+	"storyName": "Basic Lessons!",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "guide",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Funky LOFI",
+			"guider",
+			[
+				6,
+				179,
+				255
+			]
+		],
+		[
+			"Steer",
+			"guider",
+			[
+				6,
+				139,
+				235
+			]
+		]
+	],
 	"weekCharacters": [
 		"",
-		"bf",
-		"gf"
+		"",
+		""
 	],
-	"weekBackground": "stage",
-
-	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hiddenUntilUnlocked": false,
+	"weekName": "WeekGUIDES"
 }

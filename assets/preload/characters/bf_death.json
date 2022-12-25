@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				291,
+				377
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "oof loop"
+		},
+		{
+			"offsets": [
+				290,
+				440
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34
+			],
+			"name": "oof"
+		},
+		{
+			"offsets": [
+				278,
+				417
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "oof confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfdeathlmao",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		350,
+		-790
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

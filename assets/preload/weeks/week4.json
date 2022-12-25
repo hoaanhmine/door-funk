@@ -1,22 +1,41 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+	"storyName": "WATCH OUT! LIGHTS are FLICKERING.",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "ambush",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-	
-	"weekCharacters": [
-		"mom",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Interstice",
+			"ambush",
+			[
+				123,
+				216,
+				176
+			]
+		],
+		[
+			"Dysepsia",
+			"ambush",
+			[
+				123,
+				216,
+				176
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "WeekAMBUSH",
+	"hiddenUntilUnlocked": false
 }

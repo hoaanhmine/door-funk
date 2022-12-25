@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Bonne Bouche",
+			"figurec",
+			[
+				60,
+				163,
+				113
+			]
+		],
+		[
+			"Inheritance",
+			"figurec",
+			[
+				100,
+				223,
+				53
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"difficulties": "XMAS",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "DOORS- ON X-MAS",
+	"weekName": "WeekCHRISTMAS",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

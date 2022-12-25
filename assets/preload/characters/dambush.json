@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				805,
+				704
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				430,
+				699
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				484,
+				957
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				432,
+				753
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				457,
+				740
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/D-SideAmbush",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "dambush",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		81,
+		76
+	],
+	"camera_position": [
+		-460,
+		-870
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

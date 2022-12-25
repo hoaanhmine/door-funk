@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				125,
+				204
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				70,
+				179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				94,
+				217
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				52,
+				213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				200
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				244,
+				528
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "SC2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				617
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "SC1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				528
+			],
+			"anim": "appear",
+			"fps": 24,
+			"name": "SC",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFMIC",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		90,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

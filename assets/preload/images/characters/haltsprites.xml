@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="haltsprites.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="0" y="0" width="779" height="728"/>
+	<SubTexture name="Down0001" x="779" y="0" width="779" height="728"/>
+	<SubTexture name="Down0002" x="1558" y="0" width="779" height="728"/>
+	<SubTexture name="Idle0000" x="2337" y="0" width="893" height="806"/>
+	<SubTexture name="Idle0001" x="0" y="806" width="893" height="806"/>
+	<SubTexture name="Idle0002" x="893" y="806" width="893" height="806"/>
+	<SubTexture name="Idle0003" x="1786" y="806" width="893" height="806"/>
+	<SubTexture name="Idle0004" x="2679" y="806" width="893" height="806"/>
+	<SubTexture name="Idle0005" x="0" y="1612" width="893" height="806"/>
+	<SubTexture name="Idle0006" x="893" y="1612" width="893" height="806"/>
+	<SubTexture name="Idle0007" x="1786" y="1612" width="893" height="806"/>
+	<SubTexture name="Idle0008" x="2679" y="1612" width="893" height="806"/>
+	<SubTexture name="Idle0009" x="0" y="2418" width="893" height="806"/>
+	<SubTexture name="Idle0010" x="893" y="2418" width="893" height="806"/>
+	<SubTexture name="Left0000" x="1786" y="2418" width="840" height="761"/>
+	<SubTexture name="Left0001" x="2626" y="2418" width="840" height="761"/>
+	<SubTexture name="Left0002" x="0" y="3224" width="840" height="761"/>
+	<SubTexture name="Right0000" x="840" y="3224" width="874" height="761"/>
+	<SubTexture name="Right0001" x="1714" y="3224" width="874" height="761"/>
+	<SubTexture name="Right0002" x="2588" y="3224" width="874" height="761"/>
+	<SubTexture name="Up0000" x="0" y="3985" width="791" height="782"/>
+	<SubTexture name="Up0001" x="791" y="3985" width="791" height="782"/>
+	<SubTexture name="Up0002" x="1582" y="3985" width="791" height="782"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Baller Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Baller Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Baller Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Baller Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Baller Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Throw",
+			"fps": 24,
+			"name": "Baller Throw",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BallerRoblox",
+	"position": [
+		-200,
+		80
+	],
+	"healthicon": "baller",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-270,
+		-310
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

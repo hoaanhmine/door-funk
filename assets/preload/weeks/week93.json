@@ -1,0 +1,32 @@
+{
+	"storyName": "SHADOW",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Penumbra",
+			"shadow",
+			[
+				20,
+				40,
+				70
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "WeekSHADOW",
+	"hiddenUntilUnlocked": false
+}
