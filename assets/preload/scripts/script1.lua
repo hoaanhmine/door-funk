@@ -117,7 +117,7 @@ end
 
 function onCustomSubstateUpdate(tag,elapsed)
 	if tag == 'death' then
-        if keyboardJustPressed('ENTER') or keyboardJustPressed('ESCAPE') then
+        if keyboardJustPressed('ENTER') or keyboardJustPressed('LEFT') then
             if not onLoop then
                 stopSound('losssfx')
                 onLoop = true
@@ -129,13 +129,13 @@ function onCustomSubstateUpdate(tag,elapsed)
                     timer.beat.m = 0
                 end)
                 onLoop = true
-            elseif not debounce.confirm and keyboardJustPressed('ENTER') then
+            elseif not debounce.confirm and keyboardJustPressed('LEFT') then
                 stopSound('gameoverSound')
                 playSound(Assets.sounds.confirm,1,'gameoverEndSound')
                 playAnim('dead','confirm',true)
                 isConFirm = true
                 debounce.confirm = true
-            elseif not debounce.confirm and keyboardJustPressed('ESCAPE') then
+            elseif not debounce.confirm and keyboardJustPressed('BACK') then
                 isExit = true
                 exitSong()
                 setPropertyFromClass('flixel.FlxG', 'sound.music.volume', 1)
