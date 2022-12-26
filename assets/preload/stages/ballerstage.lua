@@ -1,6 +1,6 @@
 function onCreate()
 	-- the stage lmao
-	makeLuaSprite('baller', 'baller/ballerstage', -2000, -1800);
+	makeLuaSprite('baller', 'baller/ballerStage', -2000, -1800);
 	setScrollFactor('baller', 0.9, 0.9);
 	scaleObject('baller', 1.8, 1.8);
 
